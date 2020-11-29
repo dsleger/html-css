@@ -19,3 +19,7 @@ p.big {
 p.tiny {
   font-size:6px;
 }
+
+p.center {
+  text-align:center;
+}
