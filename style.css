@@ -23,3 +23,17 @@ p.tiny {
 p.center {
   text-align:center;
 }
+
+p.bold {
+  font-weight:800;
+}
+
+p.fancy {
+  font-family:Comic Sans MS;
+}
+
+p.strange {
+  font-size:20px;
+  font-weight:800;
+  color:orange;
+}
