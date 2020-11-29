@@ -37,3 +37,7 @@ p.strange {
   font-weight:800;
   color:orange;
 }
+
+img {
+  border: 4px solid #9400D3;
+}
