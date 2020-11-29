@@ -12,8 +12,10 @@ p.green {
   color:green;
 }
 
-p.big {font-size:24px;
+p.big {
+  font-size:24px;
 }
 
-p.tiny {font-size:6px;
+p.tiny {
+  font-size:6px;
 }
